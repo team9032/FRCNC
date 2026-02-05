@@ -1,5 +1,5 @@
 # Welcome TO FRCNC!
-The reacon for starting the FRCNC project was a simple one. Our FIRST FRC team was broke an we deperately needed a CNC machine to take our team to the next level. 
+The reason for starting the FRCNC project was a simple one. Our FIRST FRC team was broke an we deperately needed a CNC machine to take our team to the next level. 
 
 Once we finished we thought "hey, that wasn't too bad, why don't we share this with the rest of the FRC community?". So there you have it. Welcome to FRCNC!
 
