@@ -11,3 +11,4 @@ After a year of lessons learned with V2, we decisded to make some improvements a
 
 ## Assembly & Software
 You can download the assembly instructions which indludes the electrical/wiring on top of step by step instructions of configuring and building the CNC here: https://github.com/team9032/FRCNC/blob/main/FRCNC%20-%20Assembly%20Instructions.pdf <br/> You can also download everything you need for the software, including guides and a config.yaml here: https://github.com/team9032/FRCNC/tree/main/Software%20Configuration
+Here is the link to the CAD: https://cad.onshape.com/documents/99793c6d294a7fc36a4d043c/w/2f120a929adb9eae43693116/e/67136bd561930bbff77d9795 
